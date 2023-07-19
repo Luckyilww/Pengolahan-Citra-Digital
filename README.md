@@ -3,5 +3,6 @@ Pengolahan citra digital (Digital Image Processing) adalah sebuah disiplin ilmu 
 
 # List Code
   1. Thresholding
-  2. Hufman
+  2. Menyembunyikan data/ Informasi Pada Gambar
+  3. Hufman
   4. Flip
